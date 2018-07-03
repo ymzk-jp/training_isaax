@@ -1,12 +1,12 @@
 {
-    "name": "python-app",
+    "name": "ruby-app",
     "version": "0.1.0",
-    "description": "python - raspberry-pi",
+    "description": "ruby - raspberry-pi",
     "main": "app.py",
     "author": "",
-    "language": "python",
+    "language": "ruby",
     "license": "",
     "scripts": {
-        "start": "python app.py"
+        "start": "ruby app.rb"
     }
 }
